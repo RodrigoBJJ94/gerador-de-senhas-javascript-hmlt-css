@@ -1,2 +1,2 @@
-# gerador-de-senhas-javascript-hmlt-css
+# gerador-de-senhas-javascript-html-css
  
