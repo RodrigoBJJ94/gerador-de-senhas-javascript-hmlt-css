@@ -15,6 +15,5 @@ export default function genereratePassword(amount, capital, tiny, number, symbol
         symbol && passwordArray.push(generateSymbol());
     }
     return passwordArray.join('').slice(0, amount);
-    // Transformar o array em String e depois fatiar na quantidade certa
 }
 
